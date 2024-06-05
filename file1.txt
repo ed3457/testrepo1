@@ -1,1 +1,1 @@
-Hi there, this is CSC 5991. We are learning python. 
+Hi there, this is CSC 5991. We are learning python.  Today is Wed.
